@@ -1,0 +1,18 @@
+export default {
+    'api_login_token_expire': 'login token expire',
+    'api_login_userinfo_geterr': 'login userinfo geterr',
+    'parameter_exception': 'parameter exception',
+    'login_not_bind_emial': 'login not bind emial',
+    'login_check_email_fail': 'login check email fail',
+    'login_change_email_same': 'login change email same',
+    'login_mobile_is_bind': 'login mobile is bind',
+    'login_oldpassword_error': 'login oldpassword error',
+    'code_check_fail': 'code check fail',
+    'api_network_exception': 'network exception',
+    'api_system_error': 'system error',
+    'api_funds_account_set_shouxin_low': 'funds account set shouxin low',
+    'send_email_code_fail': 'send email code fail',
+    'api_action_fail': 'action fail',
+    'api_no_query_results_for_model': 'no query results for model',
+    'business_number_repeat': 'business number repeat',
+}
