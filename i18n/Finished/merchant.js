@@ -95,13 +95,13 @@ export default {
 
     订单号_流水号: 'Order Number/Serial Number',
     金额: 'Amount',
-    更新前: 'Before Update',
-    更新后: 'After Update',
+    更新前:'Pre-update',
+    更新后:'Post-update',
 
     订单号_流水号:'Order Number /Serial Number',
     金额:'amount of money',
     更新前:'Before updating',
-    更新后:'After update',
+    更新后:'Post-update',
 
     充值订单消费: 'Recharge Order Consumption',
     租赁订单消费: 'Rental Order Consumption',
