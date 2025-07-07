@@ -1,0 +1,18 @@
+export default {
+    'api_login_token_expire': 'Login token has expired',
+    'api_login_userinfo_geterr': 'Failed to get user information',
+    'parameter_exception': 'Parameter exception',
+    'login_not_bind_emial': 'Email not bound',
+    'login_check_email_fail': 'Email verification failed',
+    'login_change_email_same': 'New email is the same as the current one',
+    'login_mobile_is_bind': 'Mobile number is already used',
+    'login_oldpassword_error': 'Old password is incorrect',
+    'code_check_fail': 'Verification code has expired',
+    'api_network_exception': 'Network error',
+    'api_system_error': 'System error',
+    'api_funds_account_set_shouxin_low': 'Credit amount cannot be lower than used amount',
+    'send_email_code_fail': 'Failed to send verification code',
+    'api_action_fail': 'Operation failed',
+    'api_no_query_results_for_model': 'No data found',
+    'business_number_repeat': 'Business number already exists',
+}
