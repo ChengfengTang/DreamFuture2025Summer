@@ -87,7 +87,7 @@ export default {
         "i18n_notes": "Notes",
         "i18n_natural_person_information": "Personal Information",
         "i18n_enter": "Enter",
-        "i18n_order_no": "Order No.",
+        "i18n_order_no": "Order Number",
         "i18n_amount_of_money": "Amount",
         "i18n_before_updating": "Pre-Update",
         "i18n_after_update": "Post-Update",

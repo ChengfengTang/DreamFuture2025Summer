@@ -96,5 +96,11 @@ export default {
         'receiving_account':'Recipient Account Name',
         'wallet_address':'Recipient Wallet Address',
         'transaction_Hash':'Transaction Hash',
-    }
+    },
+    'please_select':'Please Select',
+    'please_manager':'Please select a customer manager',
+    'select_account_type':'Select Account Type',
+    'service_time_zone':'Service Time Zone',
+    'recharge_service':'Top-up Service',
+    'please_policy_name':'Please Enter the Policy Name'
 }
