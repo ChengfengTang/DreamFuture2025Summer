@@ -28,7 +28,7 @@ export default {
     请填写所有必填字段: 'Please fill in all required fields',
     审核通过成功: 'Approval successful',
     审核驳回成功: 'Rejection successful',
-    操作失败: 'Operation failed',
+    操作失败: 'Action failed',
     通过: 'Approve',
     不通过: 'Reject',
   }

@@ -84,7 +84,7 @@ export default {
     请选择: 'Please Select',
     设置客户经理: 'Assign Account Manager',
     请选择客户经理: 'Please select an account manager',
-    操作成功: 'Operation Successful',
+    操作成功: 'Action Successful',
     政策名称: 'Policy Name',
     请输入租赁_充值订单_流水号: 'Please enter the lease/top-up order/serial number',
     核减资金金额: 'Deduction Amount',

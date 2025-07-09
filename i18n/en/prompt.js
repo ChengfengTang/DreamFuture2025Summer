@@ -6,7 +6,7 @@ export default {
     'no:viewed': 'This image cannot be viewed',
     'no:pictures':'No pictures available',
     'delete:data':'Are you sure you want to delete this data?',
-    'operation:successful':'Operation successful',
+    'operation:successful':'Action successful',
     'normal':'Normal',
     'disable':'Disabled',
     'restore_data':'Are you sure you want to restore this data?',

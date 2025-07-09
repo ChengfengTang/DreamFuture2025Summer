@@ -41,7 +41,7 @@ export default {
   'logs': 'Log Monitoring',
   'system:queueLog': 'Queue Logs',
   'system:loginLog': 'Login Logs',
-  'system:operLog': 'Operation Logs',
+  'system:operLog': 'Action Logs',
   'system:apiLog': 'API Logs',
 
   // 工具
@@ -78,7 +78,7 @@ export default {
   'system:productAccount': 'Product Account',
 
   //工单管理
-  'wirk_order': 'Work Order Management',
-  'system:workOrder': 'Work Order List',
+  'wirk_order': 'Ticket Management',
+  'system:workOrder': 'Ticket List',
 
 }

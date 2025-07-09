@@ -12,7 +12,7 @@ export default {
     'api_system_error': 'System error',
     'api_funds_account_set_shouxin_low': 'Credit amount cannot be lower than used amount',
     'send_email_code_fail': 'Failed to send verification code',
-    'api_action_fail': 'Operation failed',
+    'api_action_fail': 'Action failed',
     'api_no_query_results_for_model': 'No data found',
     'business_number_repeat': 'Business number already exists',
 }

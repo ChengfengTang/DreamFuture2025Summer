@@ -94,7 +94,7 @@ export default {
         "i18n_update_time": "Update Time",
         "i18n_recycling_vouchers": "Recycling Vouchers",
         "i18n_operator": "Operator",
-        "i18n_operating_time": "Operation Time"
+        "i18n_operating_time": "Action Time"
     },
     add:{
         "i18n_recycle_account": "Recycle Account",
@@ -109,7 +109,7 @@ export default {
         "i18n_upload_successful": "Upload Successful",
         "i18n_recycling_vouchers": "Recycling Vouchers",
         "i18n_data_saving_in_progress": "Data Saving in Progress",
-        "i18n_operation_successful": "Operation Successful",
+        "i18n_operation_successful": "Acion Successful",
         "i18n_upload_max_size": "Upload failed, maximum allowed file size is 10MB",
     }
 }

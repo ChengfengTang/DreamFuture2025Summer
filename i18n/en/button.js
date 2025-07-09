@@ -7,7 +7,7 @@ export default {
     'restore':'Restore',
     'import':'Import',
     'export':'Export',
-    'operate':'Actions',
+    'operate':'Action',
     'serial:number':'Serial Number',
     'print:form':'Print Form',
     'refresh:table':'Refresh Table',
