@@ -70,7 +70,7 @@ export default {
 
   //订单管理
   'order': 'Order Management',
-  'system/order/orderrecharge': 'Recharge Order List',
+  'system/order/orderrecharge': 'Top-up Order List',
   'system:order': 'Rental Order List',
 
   //账号管理
